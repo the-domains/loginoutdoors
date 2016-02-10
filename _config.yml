@@ -2,6 +2,7 @@ name: LogInOutdoors
 favicon: null
 layout_spectrum: 0.02020697365514934
 typography_spectrum: 0.39058910706080496
+title: 'Log In Outdoors - Backpacking, Lightweight & Ultralight'
 cta:
   domain: null
   bucket: null
@@ -16,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.059795127250254154
-  lightness: 0.5407658175099641
-  saturation: 0.2551838830113411
-  rhythmicContrast: 0.9220597089733928
+    - '#f4fffb'
+    - '#3c572d'
+    - '#302620'
+    - '#7da2b8'
+    - '#8f8f4c'
+  brandStrength: 0.1875
+  lightness: 0.5625
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
